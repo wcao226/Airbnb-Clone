@@ -1,0 +1,6 @@
+som_dev: "0"
+som_prod: "0"
+lpch_dev: "0"
+lpch_prod: "0"
+shc_dev: "1"
+shc_dev: "0"
